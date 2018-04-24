@@ -1,0 +1,29 @@
+{
+  "name": "trycrmrs-morning-dev",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trycrmr/trycrmrs-morning-dev.git"
+  },
+  "author": "trycrmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trycrmr/trycrmrs-morning-dev/issues"
+  },
+  "homepage": "https://github.com/trycrmr/trycrmrs-morning-dev#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
